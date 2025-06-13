@@ -1,44 +1,38 @@
-# 📅 Cronograma del Proyecto e-VALuacion
+📅 Cronograma del Proyecto e-VALuacion
+🧩 Fase 1: Análisis y Planificación (Semanas 1-2)
+Semana 1: Definición de requerimientos funcionales y no funcionales.
 
-## 🧩 Fase 1: Análisis y Planificación (Semanas 1-2)
+Semana 2: Análisis de casos de uso y definición de roles de usuario.
 
-- **Semana 1**: Definición de requerimientos funcionales y no funcionales.
-- **Semana 2**: Análisis de casos de uso y definición de roles de usuario.
+🎨 Fase 2: Diseño del Sistema (Semanas 3-4)
+Semana 3: Diseño de base de datos y modelos de datos.
 
----
+Semana 4: Creación de diagramas de arquitectura y mockups de interfaz.
 
-## 🎨 Fase 2: Diseño del Sistema (Semanas 3-4)
+⚙️ Fase 3: Desarrollo Backend (Semanas 5-7)
+Semana 5: Configuración del entorno de desarrollo y estructura del proyecto.
 
-- **Semana 3**: Diseño de base de datos y modelos de datos.
-- **Semana 4**: Creación de diagramas de arquitectura y mockups de interfaz.
+Semana 6: Implementación de autenticación y gestión de usuarios.
 
----
+Semana 7: Desarrollo de módulos de rúbricas y evaluaciones.
 
-## ⚙️ Fase 3: Desarrollo Backend (Semanas 5-7)
+💻 Fase 4: Desarrollo Frontend (Semanas 8-10)
+Semana 8: Desarrollo de interfaces de usuario para docentes.
 
-- **Semana 5**: Configuración del entorno de desarrollo y estructura del proyecto.
-- **Semana 6**: Implementación de autenticación y gestión de usuarios.
-- **Semana 7**: Desarrollo de módulos de rúbricas y evaluaciones.
+Semana 9: Desarrollo de panel administrativo.
 
----
+Semana 10: Integración frontend-backend y responsive design.
 
-## 💻 Fase 4: Desarrollo Frontend (Semanas 8-10)
+🧪 Fase 5: Pruebas y Validación (Semanas 11-12)
+Semana 11: Pruebas unitarias, de integración y de usuario.
 
-- **Semana 8**: Desarrollo de interfaces de usuario para docentes.
-- **Semana 9**: Desarrollo de panel administrativo.
-- **Semana 10**: Integración frontend-backend y responsive design.
+Semana 12: Corrección de errores y optimización de rendimiento.
 
----
+🚀 Fase 6: Despliegue y Documentación (Semanas 13-14)
+Semana 13: Despliegue en servidor de producción.
 
-## 🧪 Fase 5: Pruebas y Validación (Semanas 11-12)
+Semana 14: Documentación técnica y manual de usuario.
 
-- **Semana 11**: Pruebas unitarias, de integración y de usuario.
-- **Semana 12**: Corrección de errores y optimización de rendimiento.
-
----
-
-## 🚀 Fase 6: Despliegue y Documentación (Semanas 13-14)
-
-- **Semana 13**: Despliegue en servidor de producción.
-- **Semana 14**: Documentación técnica y manual de usuario.
-
+Referencias
+Reddy, Y. M., & Andrade, H. (2019). A review of rubric use in higher education. Assessment & Evaluation in Higher Education, 44(8), 1271-1289.
+Brookhart, S. M. (2018). Appropriate criteria: Key to effective rubrics. Educational Leadership, 75(1), 22-28.
